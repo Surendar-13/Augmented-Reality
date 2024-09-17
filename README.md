@@ -26,6 +26,21 @@ This project is a **hand-tracking-based virtual drawing app** built using OpenCV
 1. Clone the repository:
    ```
    git clone https://Surendar-13/Augmented-Reality.git
-## Navigate into the project directory
-```
-cd ar-hand-tracking-drawing
+## Usage 🖐️
+Start Drawing: Raise your index finger to begin drawing on the canvas.
+- Change Colors: Raise:
+- 1 finger to use Black.
+- 2 fingers to use Green.
+- 3 fingers to use Red.
+- Undo Last Stroke: Make a fist gesture to undo the last stroke.
+- Exit the Application: Press the ESC key to exit the program.
+
+## Demo 🎥
+
+# Future Improvements 🚀
+- Add more color options to the palette.
+- Allow dynamic brush size selection using gestures.
+- Implement a save feature to store drawings as images.
+- Add gesture-based clearing of the entire canvas.
+## License 📄
+# This project is licensed under the MIT License. See the LICENSE file for details.
