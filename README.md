@@ -43,4 +43,4 @@ Start Drawing: Raise your index finger to begin drawing on the canvas.
 - Implement a save feature to store drawings as images.
 - Add gesture-based clearing of the entire canvas.
 # License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
+This code is provided under the MIT License. You are free to use, modify, and distribute it according to the terms specified in the license.
