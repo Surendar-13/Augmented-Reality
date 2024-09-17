@@ -42,5 +42,5 @@ Start Drawing: Raise your index finger to begin drawing on the canvas.
 - Allow dynamic brush size selection using gestures.
 - Implement a save feature to store drawings as images.
 - Add gesture-based clearing of the entire canvas.
-## License 📄
-# This project is licensed under the MIT License. See the LICENSE file for details.
+# License 📄
+This project is licensed under the MIT License. See the LICENSE file for details.
